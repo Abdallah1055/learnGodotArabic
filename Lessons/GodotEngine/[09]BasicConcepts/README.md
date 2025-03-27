@@ -1,4 +1,4 @@
-<div dir = rtl>
+<div dir = ltr>
 
 <div align = "center">
 
